@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>
 #include "env.h" 
 
-#define endpoint "rg-lab6-api.onrender.com"
+#define endpoint "gw-lab6-api.onrender.com"
 
 #define Fan_pin 22
 #define Light_pin 23
